@@ -2,6 +2,7 @@
 
 <!-- **Panzolinho/Panzolinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panzolinho)](https://github.com/Panzolinho/github-readme-stats)
 
 - 🔭 I’m currently on a journey to learn coding. I'm self-taught, using resources like YouTube channels, Udemy courses, W3Schools, Codecademy, and many other helpful websites.
 - 🌱 I’m focused on becoming a web and game developer , currently trying to master HTML, CSS and Javascript in 2024.
